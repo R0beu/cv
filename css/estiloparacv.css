@@ -1,0 +1,36 @@
+*{
+    color: black;
+    font-family: 'Inter', sans-serif;
+    }
+   
+    h1,h2 {
+    font-weight: bold;  
+    margin: 20px;
+    padding: 25px 
+    color: grey;
+    }
+
+    section {
+        width: 300px;
+        padding: 50px;
+        margin: 20px;
+    }
+    aside {
+        width: 30%;
+        padding-left: 15px;
+        margin-left: 15px;
+        float: right;
+        font-style: italic;
+        background-color: lightgray;
+      }
+    
+<style>
+details > summary {
+  padding: 4px;
+  width: 200px;
+  background-color: #eeeeee;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}  
+</style>
